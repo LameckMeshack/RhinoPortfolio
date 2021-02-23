@@ -691,6 +691,12 @@ footer span a:hover{
     .services{
         height: auto;
     }
+    .home .max-width{
+        flex-direction: column;
+    }
+    .home{
+        height: 140vh;
+    }
     
 }
 
